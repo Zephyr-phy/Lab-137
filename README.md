@@ -1,5 +1,5 @@
 # Lab-137
-![Lab-137 Poster](assets/branding/poster.png)
+![Lab-137 Poster](./assets/branding/poster.png)
 
 **Lab 137 — a place that both exists and does not exist.**  
 Talks, posters & research notes.
